@@ -1,0 +1,22 @@
+# Apple News 广告屏蔽规则
+# ===========================
+
+# Apple News 相关广告 & 追踪域名
+DOMAIN-SUFFIX,ads.apple.com,REJECT
+DOMAIN-SUFFIX,newsads.apple.com,REJECT
+DOMAIN-SUFFIX,news-events.apple.com,REJECT
+DOMAIN-SUFFIX,metrics.apple.com,REJECT
+DOMAIN-SUFFIX,news-metrics.apple.com,REJECT
+DOMAIN-SUFFIX,news-edge.apple.com,REJECT
+DOMAIN-SUFFIX,news-api.apple.com,REJECT
+DOMAIN-SUFFIX,news-content.apple.com,REJECT
+DOMAIN-SUFFIX,news-assets.apple.com,REJECT
+DOMAIN-SUFFIX,news-partners.apple.com,REJECT
+DOMAIN-SUFFIX,analytics.news.apple.com,REJECT
+
+# Apple 广告追踪系统
+DOMAIN-SUFFIX,adservice.apple.com,REJECT
+DOMAIN-SUFFIX,advertising.apple.com,REJECT
+DOMAIN-SUFFIX,adid.apple.com,REJECT
+DOMAIN-SUFFIX,iad.apple.com,REJECT
+DOMAIN-SUFFIX,iad.apple.com.edgekey.net,REJECT
