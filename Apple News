@@ -20,3 +20,9 @@ DOMAIN-SUFFIX,advertising.apple.com,REJECT
 DOMAIN-SUFFIX,adid.apple.com,REJECT
 DOMAIN-SUFFIX,iad.apple.com,REJECT
 DOMAIN-SUFFIX,iad.apple.com.edgekey.net,REJECT
+
+# Apple News 可能的 CDN 资源（如有广告加载问题可测试）
+DOMAIN-SUFFIX,news-cdn.apple.com,REJECT
+DOMAIN-SUFFIX,news-images.apple.com,REJECT
+DOMAIN-SUFFIX,news-videos.apple.com,REJECT
+DOMAIN-SUFFIX,news-publisher.apple.com,REJECT
