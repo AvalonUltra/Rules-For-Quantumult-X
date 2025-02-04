@@ -135,7 +135,6 @@ host-suffix,zamplus.com,reject
 host-suffix,azabu-u.ac.jp,reject
 host-suffix,couchcoaster.jp,reject
 host-suffix,delivery.dmkt-sp.jp,reject
-host-suffix,ehg-youtube.hitbox.com,reject
 host-suffix,m-78.jp,reject
 host-suffix,nichibenren.or.jp,reject
 host-suffix,nicorette.co.kr,reject
@@ -1226,7 +1225,6 @@ host-suffix,aercxy.com,reject
 host-suffix,aerserv.com,reject
 host-suffix,aes01.com,reject
 host-suffix,aeventlog.beacon.qq.com,reject
-host-suffix,afd.l.google.com,reject
 host-suffix,aff.eteachergroup.com,reject
 host-suffix,aff.lmgtfy.com,reject
 host-suffix,aff.marathonbet.com,reject
@@ -1251,7 +1249,6 @@ host-suffix,afpimages.eastday,reject
 host-suffix,afpimages.eastday.com,reject
 host-suffix,afpmm.alicdn.com,reject
 host-suffix,afptrack.csbew.com,reject
-host-suffix,afs.googlesyndication.com,reject
 host-suffix,ag.nukefans.net,reject
 host-suffix,agenda.complex.com,reject
 host-suffix,ag-gb.marketgid.com,reject
@@ -1601,7 +1598,6 @@ host-suffix,baby.yf898.com,reject
 host-suffix,backup.lumion3d.com,reject
 host-suffix,backup.lumion3d.net,reject
 host-suffix,bad1.51gxqm.com,reject
-host-suffix,badad.googleplex.com,reject
 host-suffix,badao37.net,reject
 host-suffix,bai3.gushiwen.org,reject
 host-suffix,baiapk.com,reject
@@ -1775,7 +1771,6 @@ host-suffix,bjs.9669.cn,reject
 host-suffix,bkdg.net,reject
 host-suffix,bl.wavecdn.de,reject
 host-suffix,bla.gtimg.com,reject
-host-suffix,blaaaa12.googlecode.com,reject
 host-suffix,blb.winasdaq.com,reject
 host-suffix,bllbaby.cn,reject
 host-suffix,blogad01.myweb.hinet.net,reject
@@ -3549,7 +3544,6 @@ host-suffix,godloveme.cn,reject
 host-suffix,gog9.qzdfc.com,reject
 host-suffix,go-mpulse.net,reject
 host-suffix,good.ta80.com,reject
-host-suffix,googlecommerce.com,reject
 host-suffix,goolpter.com,reject
 host-suffix,gopig.io,reject
 host-suffix,gorgon.youdao.com,reject
@@ -5222,7 +5216,6 @@ host-suffix,mobad.ijinshan.com,reject
 host-suffix,mobadme.jp,reject
 host-suffix,mobfox.com,reject
 host-suffix,mobgi.com,reject
-host-suffix,mobileads.google.com,reject
 host-suffix,mobileads.msn.com,reject
 host-suffix,mobileapptracking.com,reject
 host-suffix,mobiledissector.com,reject
@@ -5597,10 +5590,6 @@ host-suffix,pad.zhywyl.cn,reject
 host-suffix,padsdel2.cdnads.com,reject
 host-suffix,page.acm.dzwww.com,reject
 host-suffix,page.xywy.com,reject
-host-suffix,pagead.google.com,reject
-host-suffix,pagead.l.google.com,reject
-host-suffix,pagead2.googlesyndication.com,reject
-host-suffix,pagead-tpc.l.google.com,reject
 host-suffix,pagechoice.com,reject
 host-suffix,pagechoice.net,reject
 host-suffix,pagechoicemotu.gentags.net,reject
@@ -6928,7 +6917,6 @@ host-suffix,touclick.com,reject
 host-suffix,toutiao.2haha.com,reject
 host-suffix,toutiao.jxnews.com.cn,reject
 host-suffix,tp.sgcn.com,reject
-host-suffix,tpc.googlesyndication.com,reject
 host-suffix,tpe163.com,reject
 host-suffix,tpush.html5.qq.com,reject
 host-suffix,tqd.ntpddq.com,reject
@@ -7220,7 +7208,6 @@ host-suffix,vid.applovin.com,reject
 host-suffix,video.cooguo.com,reject
 host-suffix,video.ureport.push.qq.com,reject
 host-suffix,video.wap.mpush.qq.com,reject
-host-suffix,video-ad-stats.googlesyndication.com,reject
 host-suffix,videondun.com,reject
 host-suffix,videopush.baidu.com,reject
 host-suffix,viglink.com,reject
