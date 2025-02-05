@@ -10,9 +10,4 @@ DOMAIN-SUFFIX,cdn-apple.com,Proxy
 # IP 规则（可能需要代理的地理服务或数据）
 IP-CIDR,17.0.0.0/8,Proxy,no-resolve
 
-# 其他 Apple 服务分流规则（如果需要，也可启用）
-DOMAIN-SUFFIX,itunes.apple.com,Proxy
-DOMAIN-SUFFIX,icloud.com,Proxy
- 
- 
 ;host, www.example.com, direct
