@@ -4,27 +4,3 @@
 # Apple News 相关广告 & 追踪域名
 DOMAIN-SUFFIX,news.iadsdk.apple.com,REJECT
 DOMAIN-SUFFIX,iadctest.qwapi.com,REJECT
-DOMAIN-SUFFIX,ads.apple.com,REJECT
-DOMAIN-SUFFIX,newsads.apple.com,REJECT
-DOMAIN-SUFFIX,news-events.apple.com,REJECT
-DOMAIN-SUFFIX,metrics.apple.com,REJECT
-DOMAIN-SUFFIX,news-metrics.apple.com,REJECT
-DOMAIN-SUFFIX,news-edge.apple.com,REJECT
-DOMAIN-SUFFIX,news-api.apple.com,REJECT
-DOMAIN-SUFFIX,news-content.apple.com,REJECT
-DOMAIN-SUFFIX,news-assets.apple.com,REJECT
-DOMAIN-SUFFIX,news-partners.apple.com,REJECT
-DOMAIN-SUFFIX,analytics.news.apple.com,REJECT
-
-# Apple 广告追踪系统
-DOMAIN-SUFFIX,adservice.apple.com,REJECT
-DOMAIN-SUFFIX,advertising.apple.com,REJECT
-DOMAIN-SUFFIX,adid.apple.com,REJECT
-DOMAIN-SUFFIX,iad.apple.com,REJECT
-DOMAIN-SUFFIX,iad.apple.com.edgekey.net,REJECT
-
-# Apple News 可能的 CDN 资源（如有广告加载问题可测试）
-DOMAIN-SUFFIX,news-cdn.apple.com,REJECT
-DOMAIN-SUFFIX,news-images.apple.com,REJECT
-DOMAIN-SUFFIX,news-videos.apple.com,REJECT
-DOMAIN-SUFFIX,news-publisher.apple.com,REJECT
