@@ -1,11 +1,11 @@
 DOMAIN-SUFFIX,weather-geo.apple.com,Proxy
 DOMAIN-SUFFIX,weather-data.apple.com,Proxy
 DOMAIN-SUFFIX,api.weather.com,Proxy
-DOMAIN-SUFFIX,aod.itunes.apple.com,Proxy
+# DOMAIN-SUFFIX,aod.itunes.apple.com,Proxy
 
 # 备用：可能与天气服务相关的其他域名
-DOMAIN-SUFFIX,apple.com,Proxy
-DOMAIN-SUFFIX,cdn-apple.com,Proxy
+# DOMAIN-SUFFIX,apple.com,Proxy
+# DOMAIN-SUFFIX,cdn-apple.com,Proxy
 
 # IP 规则（可能需要代理的地理服务或数据）
 # IP-CIDR,17.0.0.0/8,Proxy,no-resolve
