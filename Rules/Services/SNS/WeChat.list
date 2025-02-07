@@ -31,4 +31,3 @@ DOMAIN-SUFFIX,mp.weixin.qq.com,WeChat
 
 # IP 分流规则 (防止域名解析失败时的流量泄露)
 IP-CIDR,43.159.77.142/32,WeChat,no-resolve
-;host, www.example.com, direct
