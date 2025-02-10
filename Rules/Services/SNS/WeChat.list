@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,wechatpay.cn,WeChat
 # 微信 API 服务器
 DOMAIN-SUFFIX,api.weixin.qq.com,WeChat
 DOMAIN-SUFFIX,sz.api.weixin.qq.com,WeChat
+DOMAIN-SUFFIX,szextshort.api.weixin.qq.com,WeChat
 DOMAIN-SUFFIX,hk.api.weixin.qq.com,WeChat
 DOMAIN-SUFFIX,sh.api.weixin.qq.com,WeChat
 DOMAIN-SUFFIX,api.mch.weixin.qq.com,WeChat
